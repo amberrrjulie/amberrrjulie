@@ -18,7 +18,7 @@
 
 ### About
 
-I got my start as a Systems Analyst and worked my way into Platform Engineering, so I spend a lot of my time thinking about how things are built and kept running. Outside of work, I'm building my own things and creating content &mdash; tech content over at [@amberrrr.tech](https://www.tiktok.com/@amberrr.tech), and the rest of my life at [@amberrrjulie](https://www.instagram.com/amberrrjulie).
+I'm a Platform Engineer, so I spend a lot of my time thinking about how things are built and kept running. Outside of work, I'm building my own things and creating content &mdash; tech content over at [@amberrrr.tech](https://www.tiktok.com/@amberrr.tech), and the rest of my life at [@amberrrjulie](https://www.instagram.com/amberrrjulie).
 
 ### Currently
 
